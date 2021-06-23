@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en HooksApp.test comprobar que el componente se vea correctamente 1`] = `
+<Fragment>
+  <MainApp />
+</Fragment>
+`;
